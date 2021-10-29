@@ -7,7 +7,7 @@
 
 For running the code, please:
 1) Change directory to the source folder "a2".
-2) Type "make" to compaile the code.
+2) Type "make" to compile the code.
 3) Type "./placer" to run the code.
 4) Type the designated file name on the command window, such as "cct1.txt".
 5) Type the specified number to run the program under different modes:
