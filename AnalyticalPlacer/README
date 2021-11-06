@@ -1,0 +1,46 @@
+----------------------------------------------------------------------------
+|                          ECE1387H Assignment 2                           |
+|                           An Analytical Placer                           |
+|                         Weixuan Yang s1008655947                         |
+|                      weixuan.yang@mail.utoronto.ca                       |
+----------------------------------------------------------------------------
+
+For running the code, please:
+1) Change directory to the source folder.
+2) Type "make" to compile the code.
+3) Type "./placer" to run the code.
+4) Type the designated file name on the command window, such as "cct1.txt".
+6) The graph will be generated automatically. Press the following button to
+   change the configuration of spreading:
+   [1] Default: Reset all the configurations to default:
+       - Original Psi increment function
+       - Ascending order sorted bin list
+       - No anchor, the blocks are moved to the spread location immediately
+   [2] Linear Psi: Linear Psi increment function (For 2.i)
+   [3] Reversed Bin: Reverse the bin list (For 2.ii)
+   [4] Strong Anchor: Strong anchor weight (For 2.iii)
+   [5] Weak Anchor: Weak anchor weight (For 2.iii)
+7) Press "Proceed" button to continuelly spread the circuit until it 
+   converged.
+8) Press "Index" button to show the index of the blocks
+9) Type "make clean" to clean up the folder.
+
+------------------------------- File List ----------------------------------
+
+cct1.txt, cct2.txt, cct3.txt                                     Input files
+easygl_constants.h                               Helper head file for easygl
+graphics.cpp                                          Source code for easygl
+graphics.h                                              Head file for easygl
+libamd.a                                           Library file @SuiteSparse
+libsuitesparseconfig.a                             Library file @SuiteSparse
+libumfpack.a                                       Library file @SuiteSparse
+main.cpp                                        Source code for main program
+makefile                                                       UNIX makefile
+placer.cpp                                            Source code for placer
+placer.h                                                Head file for placer
+README                                                             This file
+segment.cpp                                   Source code for data structure
+segment.h                                       Head file for data structure
+umfpack                            Folder of UMFPACK head files @SuiteSparse
+
+---------------------------- End of This File ------------------------------
