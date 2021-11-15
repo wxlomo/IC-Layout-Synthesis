@@ -5,7 +5,7 @@
 |                      weixuan.yang@mail.utoronto.ca                       |
 ----------------------------------------------------------------------------
 
-To running the code, please
+For running the code, please
 1) Switch to the source folder "a1".
 2) Type "make" to compaile the code.
 3) Type "maze_router" to run the code.
