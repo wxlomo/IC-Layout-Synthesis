@@ -18,6 +18,7 @@ The other lines\* - <1st variable in the clause (int)> <2st variable in the clau
 <sub>\* Positive integers represent variables in true form, negatives integers represent variables negated form.</sub>
 
 <br><b>File List:</b><br>
+
 <table border="0">
     <tr>
         <td>1.cnf, 2.cnf, 3.cnf, 4.cnf</td>
