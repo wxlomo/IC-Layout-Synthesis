@@ -15,7 +15,6 @@ int main() {
 	cout << "|                         Weixuan Yang s1008655947                         |\n";
 	cout << "|                      weixuan.yang@mail.utoronto.ca                       |\n";
 	cout << "----------------------------------------------------------------------------\n";
-	cout << "\nWelcome!" << endl;
 	circuit = new Placer();
 	circuit->placing();
 	delete circuit;
