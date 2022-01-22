@@ -1,4 +1,4 @@
-#   ECE1387H Assignment 3          
+#   A Branch-and-Bound Solver for MAX-SAT       
 #   Weixuan Yang s100865594        
 #   weixuan.yang@mail.utoronto.ca 
  
