@@ -15,7 +15,7 @@ For running the code, please:
 
 <b>Input File Format:</b><br>
 The first line - <number of variables (int)> <number of clauses (int)> <br>
-The other lines - <1st variable in the clause (int)*> <2nd variable in the clause (int)*> ... <0 (int)> <weight (float)> <br>
+The other lines - <1st variable in the clause (int)\*> <2st variable in the clause (int)\*> ... <0 (int)> <weight (float)> <br>
 <sub>\* Positive integers represent variables in true form, negatives integers represent variables negated form.</sub>
 
 <b>File List:</b><br>
