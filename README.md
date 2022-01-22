@@ -1,1 +1,2 @@
-# 'CAD for Digital Circuit Synthesis and Layout' Assignment codes and test cases
+# 'CAD for Digital Circuit Synthesis and Layout' 
+Assignment codes and test cases
