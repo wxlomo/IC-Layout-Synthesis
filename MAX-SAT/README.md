@@ -1,10 +1,5 @@
-----------------------------------------------------------------------------
-|                          ECE1387H Assignment 3                           |
-|                  A Branch-and-Bound Solver for MAX-SAT                   |
-|                         Weixuan Yang s1008655947                         |
-|                      weixuan.yang@mail.utoronto.ca                       |
-----------------------------------------------------------------------------
-
+# A Branch-and-Bound Solver for MAX-SAT
+<b>Description:</b><br>
 For running the code, please:
 
 1) Change directory to the source folder.
@@ -24,8 +19,7 @@ For running the code, please:
 
 6) Type "make clean" to get rid of the object and executable files.
 
-------------------------------- File List ----------------------------------
-
+<b>File List:</b><br>
 1.cnf, 2.cnf, 3.cnf, 4.cnf                                       Input files
 easygl_constants.h                               Helper head file for easygl
 graphics.cpp                                          Source code for easygl
@@ -38,4 +32,4 @@ README                                                             This file
 segment.cpp                                   Source code for data structure
 segment.h                                       Head file for data structure
 
----------------------------- End of This File ------------------------------
+<b>Copyright © 2021 Weixuan Yang</b>
