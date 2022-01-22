@@ -4,7 +4,7 @@
 For running the code, please:
 1) Change directory to the source folder.
 2) Type "make" to compile the code. The executable "maze" will be created.
-3) Type "./maze" with the path or name of the input file to run the code. Add following commands then configure the router: <br>
+3) Type "./maze" followed by the path or name of the input file to run the code. Following commands can be added then to configure the router: <br>
    "-oct" - Using octagon switch blocks instead of square switch blocks <br>
    "-min" - Minimizing channel width usage when routing <br>
    Such as "./maze cct1 -oct" to route the circuit 'cct1' with the octagon switch blocks and without channel width minimization.
