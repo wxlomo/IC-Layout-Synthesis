@@ -5,7 +5,7 @@ For running the code, please:
 1) Change directory to the source folder.
 2) Type "make" to compile the code. The executable "maze" will be created.
 3) Type "./maze" with the path or name of the input file to run the code, such as "./maxsat cct1".
-4) Add following commands after 3. to configure the router, <br>
+4) Add following commands after 3 before press enter. to configure the router, <br>
    "-oct" - Using octagon switch blocks instead of square switch blocks <br>
    "-min" - Minimizing the channel width usage when routing <br>
 5) The graph will be generated automatically. Press "Proceed" button to exit. 
