@@ -4,7 +4,7 @@
 For running the code, please:
 1) Change directory to the source folder.
 2) Type "make" to compile the code. The executable "maxsat" will be created.
-3) Type "./maxsat" with the path or name of the input file to run the code, such as "./maxsat 1". (No need to input the extension for .cnf files)
+3) Type "./maxsat" followed by the path or name of the input file to run the code, such as "./maxsat 1". (No need to input the extension for .cnf files)
 4) Press the buttons in the GUI to change the configuration of MAX-SAT:<br>
    "Vanilla" - Unweighted MAX-SAT mode (Default) <br>
    "Weighted" - Weighted MAX-SAT mode <br>
