@@ -11,7 +11,6 @@ extern Placer* circuit;
 
 int main() {
 	cout << "----------------------------------------------------------------------------\n";
-	cout << "|                          ECE1387H Assignment 2                           |\n";
 	cout << "|                          An Analytical Placer                            |\n";
 	cout << "|                         Weixuan Yang s1008655947                         |\n";
 	cout << "|                      weixuan.yang@mail.utoronto.ca                       |\n";
