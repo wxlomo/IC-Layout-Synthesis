@@ -22,7 +22,7 @@ The other lines\* - <1st variable in the clause (int)> <2st variable in the clau
 <table border="0">
     <tr>
         <td>1.cnf, 2.cnf, 3.cnf, 4.cnf</td>
-        <td>Input files</td>
+        <td>Test cases files</td>
     </tr>
     <tr>
         <td>easygl_constants.h</td>
