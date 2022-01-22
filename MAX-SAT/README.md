@@ -1,26 +1,25 @@
 # A Branch-and-Bound Solver for MAX-SAT
 <b>Description:</b><br>
 For running the code, please:
-
 1) Change directory to the source folder.
-
 2) Type "make" to compile the code. The executable "maxsat" will be created.
-
 3) Type "./maxsat" with the path or name of the input file to run the code, 
    such as "./maxsat 1". (No need to input the extension for .cnf files)
-
 4) Press the buttons in the GUI to change the configuration of MAX-SAT:
    [Vanilla ] Unweighted MAX-SAT mode (Default)
    [Weighted] Weighted MAX-SAT mode
-
 5) Press "Proceed" button to start finding the optimal solution. The tree 
    will be generated, the red dots denote the pruned nodes, and the green
    dot denotes the best solution node.
-
 6) Type "make clean" to get rid of the object and executable files.
 
+<b>Input File Format:</b><br>
+The first line - <number of variables (int)> <number of clauses (int)> <br>
+The other lines - <1st variable in the clause (int)> <2nd variable in the clause (int)> ... <0 (int)> <weight(float)> <br>
+\* For representing variables, positive integers indicate they are in non-complemented form, negatives integers indicate they are in complemented form.
+
 <b>File List:</b><br>
-<table border="1">
+<table border="0">
     <tr>
         <td>1.cnf, 2.cnf, 3.cnf, 4.cnf</td>
         <td>Input files</td>
