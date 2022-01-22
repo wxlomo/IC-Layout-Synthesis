@@ -4,12 +4,12 @@
 For running the code, please:
 1) Change directory to the source folder.
 2) Type "make" to compile the code. The executable "maze" will be created.
-3) Type "./maze" with the path or name of the input file to run the code, such as "./maxsat cct1".
-4) Add following commands after 3. before press enter. to configure the router: <br>
+3) Type "./maze" with the path or name of the input file to run the code. Add following commands then configure the router: <br>
    "-oct" - Using octagon switch blocks instead of square switch blocks <br>
-   "-min" - Minimizing the channel width usage when routing <br>
-5) The graph will be generated automatically. Press "Proceed" button to exit. 
-6) Type "make clean" to get rid of the object and executable files.
+   "-min" - Minimizing channel width usage when routing <br>
+   Such as "./maze cct1 -oct" to route the circuit 'cct1' with the octagon switch blocks and without channel width minimization.
+4) The graph will be generated automatically. Press "Proceed" button to exit. 
+5) Type "make clean" to get rid of the object and executable files.
 
 <br><b>Input File Format:</b><br>
 
