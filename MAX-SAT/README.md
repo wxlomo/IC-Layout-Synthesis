@@ -67,4 +67,4 @@ The other lines - <1st variable in the clause (int)> <2nd variable in the clause
 </table>
 
 
-<b>Copyright © 2021 Weixuan Yang</b>
+<br><b>Copyright © 2021 Weixuan Yang</b>
