@@ -20,16 +20,24 @@ For running the code, please:
 6) Type "make clean" to get rid of the object and executable files.
 
 <b>File List:</b><br>
-1.cnf, 2.cnf, 3.cnf, 4.cnf                                       Input files
-easygl_constants.h                               Helper head file for easygl
-graphics.cpp                                          Source code for easygl
-graphics.h                                              Head file for easygl
-main.cpp                                        Source code for main program
-makefile                                                       UNIX makefile
-maxsat.cpp                                    Source code for MAX-SAT solver
-maxsat.h                                        Head file for MAX-SAT solver
-README                                                             This file
-segment.cpp                                   Source code for data structure
-segment.h                                       Head file for data structure
+<table border="1">
+    <tr>
+        <td>1.cnf, 2.cnf, 3.cnf, 4.cnf</td>
+        <td>Input files</td>
+    </tr>
+    <tr>
+        <td>easygl_constants.h</td>
+        <td>Helper head file for easygl</td>
+    </tr>
+</table>
+graphics.cpp: Source code for easygl
+graphics.h: Head file for easygl
+main.cpp: Source code for main program
+makefile: UNIX makefile
+maxsat.cpp: Source code for MAX-SAT solver
+maxsat.h: Head file for MAX-SAT solver
+README: This file
+segment.cpp: Source code for data structure
+segment.h: Head file for data structure
 
 <b>Copyright © 2021 Weixuan Yang</b>
