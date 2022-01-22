@@ -1,4 +1,4 @@
-# Digital Circuit Layout Synthesis
+# IC Layout Synthesis Toys
 <b>Description:</b><br>
 
 CAD-for-Digital-Circuit-Synthesis-and-Layout
