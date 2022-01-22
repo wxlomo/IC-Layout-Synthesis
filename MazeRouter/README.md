@@ -24,7 +24,7 @@ The last line - <-1 (int)> <-1 (int)> <-1 (int)> <-1 (int)> <-1 (int)> <-1 (int)
 <table border="0">
     <tr>
         <td>cct1, cct2, cct3, cct4</td>
-        <td>Input files</td>
+        <td>Sample input files</td>
     </tr>
     <tr>
         <td>easygl_constants.h</td>
