@@ -5,9 +5,9 @@ For running the code, please:
 2) Type "make" to compile the code. The executable "maxsat" will be created.
 3) Type "./maxsat" with the path or name of the input file to run the code, 
    such as "./maxsat 1". (No need to input the extension for .cnf files)
-4) Press the buttons in the GUI to change the configuration of MAX-SAT:
-   [Vanilla ] Unweighted MAX-SAT mode (Default)
-   [Weighted] Weighted MAX-SAT mode
+4) Press the buttons in the GUI to change the configuration of MAX-SAT:<br>
+   "Vanilla" - Unweighted MAX-SAT mode (Default) <br>
+   "Weighted" - Weighted MAX-SAT mode <br>
 5) Press "Proceed" button to start finding the optimal solution. The tree 
    will be generated, the red dots denote the pruned nodes, and the green
    dot denotes the best solution node.
