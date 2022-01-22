@@ -15,7 +15,7 @@ For running the code, please:
 
 <b>Input File Format:</b><br>
 The first line - <number of variables (int)> <number of clauses (int)> <br>
-The other lines - <1st variable in the clause (int)> <2nd variable in the clause (int)> ... <0 (int)> <weight(float)> <br>
+The other lines - <1st variable in the clause (int)> <2nd variable in the clause (int)> ... <0 (int)> <weight (float)> <br>
 <sub>\* For representing variables, positive integers indicate they are in true form, negatives integers indicate they are in negated form.</sub>
 
 <b>File List:</b><br>
@@ -65,5 +65,6 @@ The other lines - <1st variable in the clause (int)> <2nd variable in the clause
         <td>Head file for data structure</td>
     </tr>
 </table>
+
 
 <b>Copyright © 2021 Weixuan Yang</b>
