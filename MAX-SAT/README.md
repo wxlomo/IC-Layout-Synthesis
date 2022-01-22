@@ -1,5 +1,6 @@
 # A Branch-and-Bound Solver for MAX-SAT
 <b>Description:</b><br>
+
 For running the code, please:
 1) Change directory to the source folder.
 2) Type "make" to compile the code. The executable "maxsat" will be created.
@@ -13,7 +14,8 @@ For running the code, please:
    dot denotes the best solution node.
 6) Type "make clean" to get rid of the object and executable files.
 
-<b>Input File Format:</b><br>
+<br><b>Input File Format:</b><br>
+
 The first line - <number of variables (int)> <number of clauses (int)> <br>
 The other lines\* - <1st variable in the clause (int)> <2st variable in the clause (int)> ... <0 (int)> <weight (float)> <br>
 <sub>\* Positive integers represent variables in true form, negatives integers represent variables negated form.</sub>
