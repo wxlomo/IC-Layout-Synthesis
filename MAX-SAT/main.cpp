@@ -11,7 +11,6 @@ extern Maxsat* problem;
 
 int main(int argc, char* argv[]) {
 	cout << "\n----------------------------------------------------------------------------";
-	cout << "\n|                          ECE1387H Assignment 3                           |";
 	cout << "\n|                  A Branch-and-Bound Solver for MAX-SAT                   |";
 	cout << "\n|                         Weixuan Yang s1008655947                         |";
 	cout << "\n|                      weixuan.yang@mail.utoronto.ca                       |";
