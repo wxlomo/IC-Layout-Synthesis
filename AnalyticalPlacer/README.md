@@ -12,8 +12,8 @@ For running the code, please:
    "Strong Anchor" - Implement the anchors with strong weight <br>
    "Weak Anchor" - Implement the anchors with weak weight <br>
 <sub>\* Quadratic incrementing &Psi;, ascending order sorted bin list, and no anchor implementation, which means the blocks are moved to the spread location immediately. </sub>
-5) Press "Proceed" button to continuelly spread the circuit until it converged.
-6) Press "Index" button to show the index numbers of the blocks.
+5) Press the "Proceed" button to continually spread the circuit until it converged.
+6) Press the "Index" button to show the index numbers of the blocks.
 7) Type "make clean" to get rid of the object and executable files.
 
 <br><b>Input File Format:</b><br>
