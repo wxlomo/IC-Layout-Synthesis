@@ -25,11 +25,11 @@ int main(int argc, char* argv[]) {
 	bool get_result = false;
 	bool mode = false;
 
-	cout << "----------------------------------------------------------------------------\n";
-	cout << "|                              A Maze Router                               |\n";
-	cout << "|                         Weixuan Yang s100865594                          |\n";
-	cout << "|                      weixuan.yang@mail.utoronto.ca                       |\n";
-	cout << "----------------------------------------------------------------------------\n";
+	cout << "\n----------------------------------------------------------------------------";
+	cout << "\n|                              A Maze Router                               |";
+	cout << "\n|                         Create by Weixuan Yang                           |";
+	cout << "\n|         weixuan.yang@mail.utoronto.ca / weixuanyang@outlook.com          |";
+	cout << "\n----------------------------------------------------------------------------";
 	if (argc == 1) {
 		cerr << "\n\n* Please specify the name of the input file.\n" << endl;
 		return -1;
