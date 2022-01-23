@@ -9,8 +9,8 @@ For running the code, please:
    "Default" - Reset all the configurations to default* <br>
    "Linear Psi" - Linear cell displacement limitation (&Psi;) increment function <br>
    "Reversed Bin" - Reverse the bin list <br>
-   "Strong Anchor" - Strong anchor weight <br>
-   "Weak Anchor" - Weak anchor weight <br>
+   "Strong Anchor" - Implement the anchors with strong weight <br>
+   "Weak Anchor" - Implement the anchors with weak weight <br>
    <sub>\* Original &Psi; increment function, ascending order sorted bin list, and no anchor implementation, which means the blocks are moved to the spread location immediately. </sub>
 5) Press "Proceed" button to continuelly spread the circuit until it converged.
 6) Press "Index" button to show the index numbers of the blocks
