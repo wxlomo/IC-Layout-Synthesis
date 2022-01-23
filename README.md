@@ -1,7 +1,8 @@
 # IC Layout Synthesis Toys
 <b>Description:</b><br>
 
-CAD-for-Digital-Circuit-Synthesis-and-Layout
+This folder includes three toy CAD tools for digital integrated circuit layout synthesis that demonstrate the algorithms for partitioning, placing, and routing. The codes were prepared as submissions for the University of Toronto ECE1387H "CAD for Digital Circuit Synthesis and Layout" course assignment. 
+
 1. The analytical Placer: 
 2. The Branch-and-Bound solver for MAX-SAT:
 3. The Maze router:
