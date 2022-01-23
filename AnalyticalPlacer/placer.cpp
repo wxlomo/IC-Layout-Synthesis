@@ -458,16 +458,6 @@ vector<Path*> Placer::find_path(Bin* bin, vector<Bin*>of_bins) {
 			}
 		}
 	}
-	//if (debug) {
-	//	cout << "bin:" << bin->bin_get_x() << "," << bin->bin_get_y() << endl;
-	//	for (unsigned int i = 0; i < P.size(); i++) {
-	//		cout << "Path: ";
-	//		for (unsigned int j = 0; j < P[i]->to_path_bins().size(); j++) {
-	//			cout << P[i]->to_path_bins().at(j)->bin_get_x() << "," << P[i]->to_path_bins().at(j)->bin_get_y() << " ";
-	//		}
-	//	}
-	//	cout << endl;
-	//}
 	return P;
 }
 
