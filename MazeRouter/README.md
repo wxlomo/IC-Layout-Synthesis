@@ -52,11 +52,11 @@ The last line - <-1 (int)> <-1 (int)> <-1 (int)> <-1 (int)> <-1 (int)> <-1 (int)
     </tr>
     <tr>
         <td>router.cpp</td>
-        <td>Source code for maze router</td>
+        <td>Source code for the maze router</td>
     </tr>
     <tr>
         <td>router.h</td>
-        <td>Head file for maze router</td>
+        <td>Head file for the maze router</td>
     </tr>
     <tr>
         <td>segment.cpp</td>
