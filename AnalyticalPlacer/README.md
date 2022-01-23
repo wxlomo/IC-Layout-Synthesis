@@ -11,7 +11,7 @@ For running the code, please:
    "Reversed Bin" - Reverse the bin list <br>
    "Strong Anchor" - Implement the anchors with strong weight <br>
    "Weak Anchor" - Implement the anchors with weak weight <br>
-   <sub>\* Original &Psi; increment function, ascending order sorted bin list, and no anchor implementation, which means the blocks are moved to the spread location immediately. </sub>
+   <sub>\* Quadratic incrementing &Psi;, ascending order sorted bin list, and no anchor implementation, which means the blocks are moved to the spread location immediately. </sub>
 5) Press "Proceed" button to continuelly spread the circuit until it converged.
 6) Press "Index" button to show the index numbers of the blocks
 7) Type "make clean" to get rid of the object and executable files.
