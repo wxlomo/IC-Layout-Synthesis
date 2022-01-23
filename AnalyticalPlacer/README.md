@@ -7,7 +7,7 @@ For running the code, please:
 3) Type "./place" followed by the path or name of the input file to run the code, such as "./place cct1". (No need to input the extension for .txt files)
 4) The initial placement will be generated automatically. Press the buttons in the GUI to change the configuration of spreading:<br>
    "Default" - Reset all the configurations to default* <br>
-   "Linear Psi" - Linear cell limitation (&Psi;) increment function <br>
+   "Linear Psi" - Linear cell displacement limitation (&Psi;) increment function <br>
    "Reversed Bin" - Reverse the bin list <br>
    "Strong Anchor" - Strong anchor weight <br>
    "Weak Anchor" - Weak anchor weight <br>
