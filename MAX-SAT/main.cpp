@@ -10,11 +10,11 @@
 extern Maxsat* problem;
 
 int main(int argc, char* argv[]) {
-	cout << "\n----------------------------------------------------------------------------";
-	cout << "\n|                            A MAX-SAT Solver                              |";
-	cout << "\n|                         Weixuan Yang s1008655947                         |";
-	cout << "\n|                      weixuan.yang@mail.utoronto.ca                       |";
-	cout << "\n----------------------------------------------------------------------------";
+	cout << "----------------------------------------------------------------------------\n";
+	cout << "|                            A MAX-SAT Solver                              |\n";
+	cout << "|                         Create by Weixuan Yang                           |\n";
+	cout << "|         weixuan.yang@mail.utoronto.ca / weixuanyang@outlook.com          |\n";
+	cout << "----------------------------------------------------------------------------\n";
 	if (argc == 1) {
 		cerr << "\n\n* Please specify the name of the input file.\n" << endl;
 		return 0;
