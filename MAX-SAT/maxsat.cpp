@@ -300,7 +300,7 @@ void plot_init(void) {
 	init_world(0., 0., window_size_x, window_size_y);
 	create_button("Window", "Vanilla", plot_set_vanilla);
 	create_button("Vanilla", "Weighted", plot_set_weighted);
-	sprintf(msg, "Created by: Weixuan Yang @ University of Toronto");
+	sprintf(msg, "[Created by: Weixuan Yang]");
 	update_message(msg);
 	set_draw_mode(DRAW_NORMAL);
 	enable_or_disable_button(8, false);
