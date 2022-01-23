@@ -156,7 +156,7 @@ bool Placer::init_block() {
 	init_plot();
 	disp = 0.0;
 	cout << "\nInitial HPWL: " << WL << endl;
-	sprintf(msg, "[Initial] Press 'Proceed' to continue. HPWL: %.2f. [Created by: Weixuan Yang @ University of Toronto]", WL);
+	sprintf(msg, "[Initial] Press 'Proceed' to continue. HPWL: %.2f. [Created by: Weixuan Yang]", WL);
 	update_message(msg);
 	return true;
 }
