@@ -1,6 +1,6 @@
 #   A Maze Router         
-#   Weixuan Yang s1008655947        
-#   weixuan.yang@mail.utoronto.ca 
+#   Weixuan Yang    
+#   weixuanyang@outlook.com
  
 PLATFORM = X11
 GRAPHICS_LIBS = -lX11
