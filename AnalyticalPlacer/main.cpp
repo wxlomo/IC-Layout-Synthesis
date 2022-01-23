@@ -10,11 +10,11 @@
 extern Placer* circuit;
 
 int main(int argc, char* argv[]) {
-	cout << "----------------------------------------------------------------------------\n";
-	cout << "|                          An Analytical Placer                            |\n";
-	cout << "|                         Create by Weixuan Yang                           |\n";
-	cout << "|         weixuan.yang@mail.utoronto.ca / weixuanyang@outlook.com          |\n";
-	cout << "----------------------------------------------------------------------------\n";
+	cout << "\n----------------------------------------------------------------------------";
+	cout << "\n|                          An Analytical Placer                            |";
+	cout << "\n|                         Create by Weixuan Yang                           |";
+	cout << "\n|         weixuan.yang@mail.utoronto.ca / weixuanyang@outlook.com          |";
+	cout << "\n----------------------------------------------------------------------------";
 	if (argc == 1) {
 		cerr << "\n\n* Please specify the name of the input file.\n" << endl;
 		return 0;
