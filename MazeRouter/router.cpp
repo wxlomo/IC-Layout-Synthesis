@@ -813,7 +813,7 @@ bool Router::maze_routing() {
 			}
 		}
 	}
-	sprintf(msg, "[Complete] Segment usage: %d. Channel Width usage: %d. [Created by: Weixuan Yang @ University of Toronto]", segments, width_);
+	sprintf(msg, "[Complete] Segment usage: %d. Channel Width usage: %d. [Created by: Weixuan Yang]", segments, width_);
 	return true;
 }
 
