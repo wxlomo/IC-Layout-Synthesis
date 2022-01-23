@@ -2,6 +2,9 @@
 <b>Description:</b><br>
 
 CAD-for-Digital-Circuit-Synthesis-and-Layout
+1. The analytical Placer: 
+2. The Branch-and-Bound solver for MAX-SAT:
+3. The Maze router:
 
 <br><b>File List:</b><br>
 
