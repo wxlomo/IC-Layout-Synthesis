@@ -1,6 +1,6 @@
 #   A Branch-and-Bound Solver for MAX-SAT       
-#   Weixuan Yang s100865594        
-#   weixuan.yang@mail.utoronto.ca 
+#   Weixuan Yang    
+#   weixuanyang@outlook.com
  
 PLATFORM = X11
 GRAPHICS_LIBS = -lX11
