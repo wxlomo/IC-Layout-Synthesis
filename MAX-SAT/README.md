@@ -8,7 +8,7 @@ For running the code, please:
 4) Press the buttons in the GUI to change the configuration of MAX-SAT:<br>
    "Vanilla" - Unweighted MAX-SAT mode (Default) <br>
    "Weighted" - Weighted MAX-SAT mode <br>
-5) Press "Proceed" button to start finding the optimal solution. The tree will be generated, the red dots denote the pruned nodes, and the green dot denotes the best solution node.
+5) Press the "Proceed" button to start finding the optimal solution. The tree will be generated, the red dots denote the pruned nodes, and the green dot denotes the best solution node.
 6) Type "make clean" to get rid of the object and executable files.
 
 <br><b>Input File Format:</b><br>
