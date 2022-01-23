@@ -13,15 +13,15 @@ Brief descriptions of the three CAD tools are as follows:
 <table border="0">
     <tr>
         <td>AnalyticalPlacer</td>
-        <td>The analytical placer folder</td>
+        <td>The analytical placer program files</td>
     </tr>
     <tr>
         <td>MAX-SAT</td>
-        <td>The Branch-and-Bound solver for MAX-SAT folder</td>
+        <td>The Branch-and-Bound solver for MAX-SAT program files</td>
     </tr>
     <tr>
         <td>MazeRouter</td>
-        <td>The Maze router folder</td>
+        <td>The Maze router program files</td>
     </tr>
     <tr>
         <td>README.md</td>
