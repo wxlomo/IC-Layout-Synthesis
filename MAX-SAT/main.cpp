@@ -1,6 +1,6 @@
 /*
  * main.cpp
- * A Branch-and-Bound Solver for MAX-SAT
+ * A MAX-SAT Solver
  *	
  * Author:Weixuan Yang
  * Date: Nov 17, 2021
@@ -11,7 +11,7 @@ extern Maxsat* problem;
 
 int main(int argc, char* argv[]) {
 	cout << "\n----------------------------------------------------------------------------";
-	cout << "\n|                  A Branch-and-Bound Solver for MAX-SAT                   |";
+	cout << "\n|                            A MAX-SAT Solver                              |";
 	cout << "\n|                         Weixuan Yang s1008655947                         |";
 	cout << "\n|                      weixuan.yang@mail.utoronto.ca                       |";
 	cout << "\n----------------------------------------------------------------------------";
