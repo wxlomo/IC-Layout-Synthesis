@@ -46,11 +46,11 @@ The other lines\* - <1st variable in the clause (int)> <2st variable in the clau
     </tr>
     <tr>
         <td>maxsat.cpp</td>
-        <td>Source code for MAX-SAT solver</td>
+        <td>Source code for the MAX-SAT solver</td>
     </tr>
     <tr>
         <td>maxsat.h</td>
-        <td>Head file for MAX-SAT solver</td>
+        <td>Head file for the MAX-SAT solver</td>
     </tr>
     <tr>
         <td>README.md</td>
