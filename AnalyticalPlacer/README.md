@@ -19,9 +19,9 @@ For running the code, please:
 <br><b>Input File Format:</b><br>
 
 The first several lines - <block index (int)> <1st net index (int)> <2nd net index (int)> ... <-1 (int)> <br>
-The split line - <-1 (int> <br>
+The split line - <-1 (int)> <br>
 The several lines then - <block index (int)> <block x coordinates (int)> <block y coordinates (int)> <br>
-The last line -  <-1 (int> 
+The last line -  <-1 (int)> 
 
 <br><b>File List:</b><br>
 
