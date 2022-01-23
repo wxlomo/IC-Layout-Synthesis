@@ -1,4 +1,4 @@
-# A Branch-and-Bound Solver for MAX-SAT
+# A MAX-SAT Solver
 <b>Description:</b><br>
 
 For running the code, please:
