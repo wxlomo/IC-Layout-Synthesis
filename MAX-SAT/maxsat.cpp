@@ -47,8 +47,8 @@ bool Maxsat::maxsat(string filename) {
 	filein.open(filename, ios::in);
 	if (filein.is_open()) cout << "\n\n" << filename << " is opened successfully." << endl;
 	else {
-		filein.open(filename + ".cnf", ios::in);
-		if (filein.is_open()) cout << "\n\n" << filename << ".cnf is opened successfully." << endl;
+		filein.open(filename + ".txt", ios::in);
+		if (filein.is_open()) cout << "\n\n" << filename << ".txt is opened successfully." << endl;
 		else return false;
 	}
 	filein >> nv;
