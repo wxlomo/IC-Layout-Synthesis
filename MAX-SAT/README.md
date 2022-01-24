@@ -4,7 +4,7 @@
 For running the code, please:
 1) Change directory to the source folder.
 2) Type "<i>make</i>" to compile the code. The executable "maxsat" will be created.
-3) Type "<i>./maxsat</i>" followed by the path or name of the input file to run the code (No need to input the extension for .cnf files). <br>Type "<i>-w</i>" then to run the solver in weighted MAX-SAT mode, such as "<i>./maxsat 1 -w</i>", otherwise it will treat all clauses equally weighted.
+3) Type "<i>./maxsat</i>" followed by the path or name of the input file to run the code. Type "<i>-w</i>" then to run the solver in weighted MAX-SAT mode, such as "<i>./maxsat 1 -w</i>", otherwise it will treat all clauses equally weighted.
 5) The binary decision tree will be generated automatically, the red dots denote the pruned nodes, and the green dot denotes the best solution node. The Boolean assignments of the variables will be visible on the terminal once the optimization is finished.
 6) Type "make clean" to get rid of the object and executable files.
 
