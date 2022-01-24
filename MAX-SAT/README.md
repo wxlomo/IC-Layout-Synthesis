@@ -3,8 +3,8 @@
 
 For running the code, please:
 1) Change directory to the source folder.
-2) Type "make" to compile the code. The executable "maxsat" will be created.
-3) Type "./maxsat" followed by the path or name of the input file to run the code (No need to input the extension for .cnf files). Type command "-w" then to run the solver in weighted MAX-SAT mode, such as "./maxsat 1 -w", otherwise it will treat all the clauses equally weighted.
+2) Type "<i>make</i>" to compile the code. The executable "maxsat" will be created.
+3) Type "<i>./maxsat</i>" followed by the path or name of the input file to run the code (No need to input the extension for .cnf files). Type command "<i>-w</i>" then to run the solver in weighted MAX-SAT mode, such as "<i>./maxsat 1 -w</i>", otherwise it will treat all the clauses equally weighted.
 4) The graph will be generated automatically. the red dots denote the pruned nodes, and the green dot denotes the best solution node.
 5) Type "make clean" to get rid of the object and executable files.
 
