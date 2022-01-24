@@ -69,7 +69,7 @@ int main(int argc, char* argv[]) {
 	if (!mode) cout << "\n-------------------------- Routing, please wait... -------------------------\n\n";
 	else cout << "\n--------------- Finding minimum channel width, please wait... --------------\n\n";
 	Router* circuit = NULL;
-	for (width = w_max; width >= 1; width--) {
+	for (width = w_max; width >= 0; width--) {
 		if(get_result){
 			mode = false;
 		}
