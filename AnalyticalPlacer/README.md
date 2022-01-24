@@ -27,7 +27,7 @@ The last line -  <-1 (int)>
 
 <table border="0">
     <tr>
-        <td>cct1.txt, cct2.txt, cct3.txt</td>
+        <td>cct1, cct2, cct3</td>
         <td>Test case files</td>
     </tr>
     <tr>
