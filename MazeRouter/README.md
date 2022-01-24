@@ -1,4 +1,4 @@
-# A Branch-and-Bound Solver for MAX-SAT
+# A Maze Router
 <b>Description:</b><br>
 
 For running the code, please:
