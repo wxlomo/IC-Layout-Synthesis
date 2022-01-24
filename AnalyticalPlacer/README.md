@@ -3,8 +3,8 @@
 
 For running the code, please:
 1) Change directory to the source folder.
-2) Type "make" to compile the code. The executable "place" will be created.
-3) Type "./place" followed by the path or name of the input file, such as "./place cct1" (No need to input the extension for .txt files).
+2) Type "<i>make</i>" to compile the code. The executable "place" will be created.
+3) Type "<i>./place</i>" followed by the path or name of the input file, such as "<i>./place cct1</i>" (No need to input the extension for .txt files).
 4) The initial placement will be generated automatically. Press the buttons in the GUI to change the configuration of spreading:<br>
    "Default" - Reset all the configurations to default* <br>
    "Linear Psi" - Linear cell displacement limitation (&Psi;) increment function <br>
