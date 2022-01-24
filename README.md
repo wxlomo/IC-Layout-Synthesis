@@ -1,7 +1,7 @@
 # IC Layout Synthesis CAD Tools
 <b>Description:</b><br>
 
-This folder includes three toy CAD tools for digital integrated circuit layout synthesis that demonstrate the algorithms for partitioning, placing, and routing. The codes were prepared as submissions for the University of Toronto ECE1387H "CAD for Digital Circuit Synthesis and Layout" course assignments. The graphics package "easyGL" is from Prof. V. Betz's work, and the sparse linear systems solver used in the placer is from "Suitesparse" by Prof. T. Davis. 
+This folder includes three toy CAD tools for digital integrated circuit layout synthesis that demonstrate the algorithms for partitioning, placing, and routing. The codes were prepared for Prof. J. Anderson as submissions for the University of Toronto ECE1387H "CAD for Digital Circuit Synthesis and Layout" course assignments. The graphics package "easyGL" is from Prof. V. Betz's work, and the sparse linear systems solver used in the placer is from "Suitesparse" by Prof. T. Davis. 
 
 Brief introductions of the three CAD tools are as follows:
 1. The analytical placer <br> An analytical-based global placer. The program accepts circuits that include both movable and fixed blocks (dies), places the movable blocks by solving the Hessian matrices regarding their coordinates to minimize the HPWL, then spreads them by using a flow-based algorithm to remove overlaps. When spreading the blocks, the placer can maintain HPWL as much as possible when the anchor cell options are enabled. 
