@@ -5,12 +5,12 @@ For running the code, please:
 1) Change directory to the source folder.
 2) Type "<i>make</i>" to compile the code. The executable "place" will be created.
 3) Type "<i>./place</i>" followed by the path or name of the input file, such as "<i>./place cct1</i>" (No need to input the extension for .txt files).
-4) The initial placement will be generated automatically. Press the buttons in the GUI to configure the algorithm while spreading:<br>
+4) The initial placement will be generated automatically. Press the buttons in the GUI before and while spreading to configure the algorithm:<br>
    "Default" - Reset all the configurations to default* <br>
    "Linear Psi" - Linear cell displacement limitation (&Psi;) increment function <br>
    "Reversed Bin" - Reverse the bin list <br>
-   "Strong Anchor" - Implement the anchors with strong weight <br>
-   "Weak Anchor" - Implement the anchors with weak weight <br>
+   "Strong Anchor" - Implement the anchors with strong weight to optimize HPWL <br>
+   "Weak Anchor" - Implement the anchors with weak weight to optimize HPWL <br>
 <sub>\* Quadratic incrementing &Psi;, ascending order sorted bin list, and no anchor implementation, which means the blocks are moved to the spread location immediately. </sub>
 5) Press the "Proceed" button to continually spread the circuit until it converged.
 6) Press the "Index" button to show the index numbers of the blocks.
