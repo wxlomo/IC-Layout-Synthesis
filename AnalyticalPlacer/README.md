@@ -20,7 +20,7 @@ For running the code, please:
 
 The first several lines - <block index (int)> <1st net index (int)> <2nd net index (int)> ... <-1 (int)> <br>
 The split line - <-1 (int)> <br>
-The several lines then - <block index (int)> <block x coordinates (int)> <block y coordinates (int)> <br>
+The several lines then - <fixed block index (int)> <fixed block x coordinates (int)> <fixed block y coordinates (int)> <br>
 The last line -  <-1 (int)> 
 
 <br><b>File List:</b><br>
