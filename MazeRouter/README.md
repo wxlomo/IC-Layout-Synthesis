@@ -9,7 +9,7 @@ For running the code, please:
    "<i>-min</i>" - Minimizing channel width usage when routing <br>
    Such as "<i>./maze cct1 -oct</i>" to route the circuit 'cct1' with the octagon switch blocks and without channel width minimization.
 4) The graph will be generated automatically.
-5) Type "make clean" to get rid of the object and executable files.
+5) Type "<i>make clean</i>" to get rid of the object and executable files.
 
 <br><b>Input File Format:</b><br>
 
