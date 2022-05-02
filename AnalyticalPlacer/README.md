@@ -20,7 +20,7 @@ For running the code, please:
 <sub>\* Quadratic incrementing &Psi;, ascending order sorted bin list, and no anchor implementation, which means the blocks are moved to the spread location immediately. </sub>
 5) Press `Proceed` to continually spread the circuit until it converged.
 6) Press `Index` to show the index numbers of the blocks.
-7) Get rid of the object and executable files:
+7) To get rid of the object and executable files:
     ```
     make clean
     ```
