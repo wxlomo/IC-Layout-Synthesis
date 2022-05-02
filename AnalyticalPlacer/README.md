@@ -7,11 +7,10 @@ For running the code, please:
     ```console
     make
     ```
-3) To run the executable, Type:
+3) To run the executable, type the name of it followed by the path or name of the input file:
     ```console
     ./place [PATH OF THE TEST CASE FILE]
     ```
-   followed by the path or name of the input file.
 6) The initial placement will be generated automatically. Press the buttons in the GUI before and while spreading to configure the algorithm:<br>
    "<i>Default</i>" - Reset all the configurations to default* <br>
    "<i>Linear Psi</i>" - Linear cell displacement limitation (&Psi;) increment function <br>
