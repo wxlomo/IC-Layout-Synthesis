@@ -7,9 +7,15 @@ For running the code, please:
     ```sh
     make
     ```
-   The executable "place" will be created.
-3) Type "<i>./place</i>" followed by the path or name of the input file, such as "<i>./place cct1</i>".
-4) The initial placement will be generated automatically. Press the buttons in the GUI before and while spreading to configure the algorithm:<br>
+3) To run the executable, Type:
+    ```sh
+    ./place
+    ```
+   followed by the path or name of the input file, such as:
+    ```sh
+    ./place cct1
+    ``` 
+6) The initial placement will be generated automatically. Press the buttons in the GUI before and while spreading to configure the algorithm:<br>
    "<i>Default</i>" - Reset all the configurations to default* <br>
    "<i>Linear Psi</i>" - Linear cell displacement limitation (&Psi;) increment function <br>
    "<i>Reversed Bin</i>" - Reverse the bin list <br>
