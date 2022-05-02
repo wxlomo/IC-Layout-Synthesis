@@ -8,11 +8,11 @@ For running the code, please:
     make
     ```
 3) To run the executable, Type:
-    ```sh
-    ./place 
+    ```console
+    ./place FILENAME
     ```
    followed by the path or name of the input file, such as:
-    ```sh
+    ```console
     ./place cct1
     ``` 
 6) The initial placement will be generated automatically. Press the buttons in the GUI before and while spreading to configure the algorithm:<br>
@@ -25,7 +25,7 @@ For running the code, please:
 5) Press the "<i>Proceed</i>" button to continually spread the circuit until it converged.
 6) Press the "<i>Index</i>" button to show the index numbers of the blocks.
 7) To get rid of the object and executable files, type:
-    ```sh
+    ```console
     make clean
     ```
 
