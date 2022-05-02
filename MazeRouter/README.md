@@ -3,13 +3,27 @@
 
 For running the code, please:
 1) Change directory to the source folder.
-2) Type "<i>make</i>" to compile the code. The executable "maze" will be created.
-3) For running the router, type "<i>./maze</i>" followed by the path or name of the input file. Following commands can be added then to configure the router: <br>
-   "<i>-oct</i>" - Using octagon switch blocks instead of square switch blocks <br>
-   "<i>-min</i>" - Minimizing channel width usage when routing <br>
-   Such as "<i>./maze cct1 -oct</i>" to route the circuit 'cct1' with the octagon switch blocks and without channel width minimization.
+2) To compile the code, type:
+    ```console
+    make
+    ```
+3) To run the executable, type the name of it followed by the path or name of the input file:
+    ```console
+    ./maze [PATH OF THE TEST CASE FILE] [-oct] [-min]
+    ```
+    To use octagon switch blocks instead of square switch blocks, type:
+    ```console
+    ./maze [PATH OF THE TEST CASE FILE] -oct
+    ```
+    To minimizing channel width usage when routing, type:
+    ```console
+    ./maze [PATH OF THE TEST CASE FILE] -min
+    ```
 4) The graph will be generated automatically.
-5) Type "<i>make clean</i>" to get rid of the object and executable files.
+5) To get rid of the object and executable files, type:
+    ```console
+    make clean
+    ```
 
 <br><b>Input File Format:</b><br>
 
