@@ -24,7 +24,10 @@ For running the code, please:
 <sub>\* Quadratic incrementing &Psi;, ascending order sorted bin list, and no anchor implementation, which means the blocks are moved to the spread location immediately. </sub>
 5) Press the "<i>Proceed</i>" button to continually spread the circuit until it converged.
 6) Press the "<i>Index</i>" button to show the index numbers of the blocks.
-7) Type "<i>make clean</i>" to get rid of the object and executable files.
+7) To get rid of the object and executable files, type:
+    ```sh
+    make clean
+    ```
 
 <br><b>Input File Format:</b><br>
 
