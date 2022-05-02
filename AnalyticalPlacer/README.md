@@ -98,4 +98,4 @@ The last line: `-1 (int)`
 </table>
 
 
-<br><b>Copyright © 2021 Weixuan Yang</b>
+<br><b>Copyright © 2021 [Weixuan Yang](https://www.linkedin.com/in/weixuanyang/)</b>
