@@ -24,7 +24,6 @@ For running the code, please:
     ```
     make clean
     ```
-
 <br><b>Test Case File Format:</b><br>
 
 The lines for blocks: `block index (int)` `1st net index (int)` `2nd net index (int)` ... `-1 (int)` <br>
