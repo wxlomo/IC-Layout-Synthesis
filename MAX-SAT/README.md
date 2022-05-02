@@ -3,17 +3,17 @@
 
 For running the code, please:
 1) Change directory to the source folder.
-2) To compile the code, type:
+2) Compile the code:
     ```
     make
     ```
-3) To run the executable, type the name of it followed by the path or name of the input file:
+3) Run the executable:
     ```
     ./maxsat [PATH OF THE TEST CASE FILE] -w
     ```
     `-w` - Run the solver in weighted MAX-SAT mode, otherwise all clauses are treated equally weighted.
 4) The binary decision tree will be generated automatically, the red dots denote the pruned nodes, and the green dot denotes the best solution node. The Boolean assignments of the variables will be visible on the terminal once the optimization is finished.
-5) To get rid of the object and executable files, type:
+5) Get rid of the object and executable files:
     ```
     make clean
     ```
