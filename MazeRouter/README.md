@@ -21,11 +21,11 @@ For running the code, please:
 
 <br><b>Input File Format:</b><br>
 
-The first line - <grid size (int)> <br>
-The second line - <channel width (int)> <br>
-The other lines - <x coordinate of the source (int)> <y coordinate of the source (int)> <pin number of the source (int)> <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<x coordinate of the sink (int)> <y coordinate of the sink (int)> <pin number of the sink (int)> <br>
-The last line - <-1 (int)> <-1 (int)> <-1 (int)> <-1 (int)> <-1 (int)> <-1 (int)>
+The first line - `grid size (int)` <br>
+The second line - `channel width (int)` <br>
+The other lines - `x coordinate of the source (int)` `y coordinate of the source (int)` `pin number of the source (int)` <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;`x coordinate of the sink (int)` `y coordinate of the sink (int)` `pin number of the sink (int)` <br>
+The last line - `-1 (int)` `-1 (int)` `-1 (int)` `-1 (int)` `-1 (int)` `-1 (int)`
 
 <br><b>File List:</b><br>
 
