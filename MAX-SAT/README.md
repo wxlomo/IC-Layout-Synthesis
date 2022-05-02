@@ -3,12 +3,26 @@
 
 For running the code, please:
 1) Change directory to the source folder.
-2) Type "<i>make</i>" to compile the code. The executable "maxsat" will be created.
-3) Type "<i>./maxsat</i>" followed by the path or name of the input file to run the code. Type "<i>-w</i>" then to run the solver in weighted MAX-SAT mode, such as "<i>./maxsat cct1 -w</i>", otherwise all clauses are treated equally weighted.
-5) The binary decision tree will be generated automatically, the red dots denote the pruned nodes, and the green dot denotes the best solution node. The Boolean assignments of the variables will be visible on the terminal once the optimization is finished.
-6) Type "<i>make clean</i>" to get rid of the object and executable files.
+2) To compile the code, type:
+    ```console
+    make
+    ```
+3) To run the executable, type the name of it followed by the path or name of the input file:
+    ```console
+    ./maxsat [PATH OF THE TEST CASE FILE]
+    ```
+   To run the solver in weighted MAX-SAT mode, type: 
+    ```console
+    ./maxsat [PATH OF THE TEST CASE FILE] -w
+    ```
+   otherwise all clauses are treated equally weighted.
+4) The binary decision tree will be generated automatically, the red dots denote the pruned nodes, and the green dot denotes the best solution node. The Boolean assignments of the variables will be visible on the terminal once the optimization is finished.
+5) To get rid of the object and executable files, type:
+    ```console
+    make clean
+    ```
 
-<br><b>Input File Format:</b><br>
+<br><b>Test Case File Format:</b><br>
 
 The first line - <number of variables (int)> <number of clauses (int)> <br>
 The other lines\* - <1st variable in the clause (int)> <2st variable in the clause (int)> ... <0 (int)> <clause weight (int)> <br>
