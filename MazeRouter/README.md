@@ -11,7 +11,7 @@ For running the code, please:
     ```console
     ./maze [PATH OF THE TEST CASE FILE] -oct -min
     ```
-    `-oct` - Use octagon switch blocks instead of square switch blocks.
+    `-oct` - Use octagon switch blocks instead of square switch blocks. <br/>
     `-min` - Minimizing channel width usage when routing.
 4) The graph will be generated automatically.
 5) To get rid of the object and executable files, type:
