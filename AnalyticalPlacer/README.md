@@ -3,7 +3,9 @@
 
 For running the code, please:
 1) Change directory to the source folder.
-2) Type "<i>make</i>" to compile the code. The executable "place" will be created.
+2) Compile the code:```sh
+    make
+    ```
 3) Type "<i>./place</i>" followed by the path or name of the input file, such as "<i>./place cct1</i>".
 4) The initial placement will be generated automatically. Press the buttons in the GUI before and while spreading to configure the algorithm:<br>
    "<i>Default</i>" - Reset all the configurations to default* <br>
