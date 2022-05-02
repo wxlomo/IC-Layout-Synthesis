@@ -3,11 +3,11 @@
 
 For running the code, please:
 1) Change directory to the source folder.
-2) To compile the code, type:
+2) Compile the code:
     ```
     make
     ```
-3) To run the executable, type the name of it followed by the path or name of the input file:
+3) Run the executable:
     ```
     ./place [PATH OF THE TEST CASE FILE]
     ```
@@ -20,7 +20,7 @@ For running the code, please:
 <sub>\* Quadratic incrementing &Psi;, ascending order sorted bin list, and no anchor implementation, which means the blocks are moved to the spread location immediately. </sub>
 5) Press `Proceed` to continually spread the circuit until it converged.
 6) Press `Index` to show the index numbers of the blocks.
-7) To get rid of the object and executable files, type:
+7) Get rid of the object and executable files:
     ```
     make clean
     ```
