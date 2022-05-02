@@ -14,7 +14,7 @@ For running the code, please:
     `-oct` - Use octagon switch blocks instead of square switch blocks. <br/>
     `-min` - Minimizing channel width usage when routing.
 4) The graph will be generated automatically.
-5) Get rid of the object and executable files:
+5) To get rid of the object and executable files:
     ```
     make clean
     ```
