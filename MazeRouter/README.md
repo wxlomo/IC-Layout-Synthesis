@@ -3,18 +3,18 @@
 
 For running the code, please:
 1) Change directory to the source folder.
-2) To compile the code, type:
+2) Compile the code:
     ```
     make
     ```
-3) To run the executable, type the name of it followed by the path or name of the input file:
+3) Run the executable:
     ```
     ./maze [PATH OF THE TEST CASE FILE] -oct -min
     ```
     `-oct` - Use octagon switch blocks instead of square switch blocks. <br/>
     `-min` - Minimizing channel width usage when routing.
 4) The graph will be generated automatically.
-5) To get rid of the object and executable files, type:
+5) Get rid of the object and executable files:
     ```
     make clean
     ```
