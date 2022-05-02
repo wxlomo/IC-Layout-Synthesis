@@ -4,12 +4,12 @@
 For running the code, please:
 1) Change directory to the source folder.
 2) To compile the code, type:
-    ```sh
+    ```console
     make
     ```
 3) To run the executable, Type:
     ```sh
-    ./place
+    ./place 
     ```
    followed by the path or name of the input file, such as:
     ```sh
