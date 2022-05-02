@@ -9,16 +9,10 @@ For running the code, please:
     ```
 3) To run the executable, type the name of it followed by the path or name of the input file:
     ```console
-    ./maze [PATH OF THE TEST CASE FILE] [-oct] [-min]
+    ./maze [PATH OF THE TEST CASE FILE] -oct -min
     ```
-    To use octagon switch blocks instead of square switch blocks, type:
-    ```console
-    ./maze [PATH OF THE TEST CASE FILE] -oct
-    ```
-    To minimizing channel width usage when routing, type:
-    ```console
-    ./maze [PATH OF THE TEST CASE FILE] -min
-    ```
+    `-oct` - Use octagon switch blocks instead of square switch blocks.
+    `-min` - Minimizing channel width usage when routing.
 4) The graph will be generated automatically.
 5) To get rid of the object and executable files, type:
     ```console
