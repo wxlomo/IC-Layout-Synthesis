@@ -17,7 +17,6 @@ For running the code, please:
     ```
     make clean
     ```
-
 <br><b>Test Case File Format:</b><br>
 
 The first line - `number of variables (int)` `number of clauses (int)` <br>
