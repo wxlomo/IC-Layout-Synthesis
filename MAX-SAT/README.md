@@ -74,4 +74,4 @@ The other lines\* - `1st variable in the clause (int)` `2st variable in the clau
 </table>
 
 
-<br><b>Copyright © 2021 Weixuan Yang</b>
+<br><b>Copyright © 2021 [Weixuan Yang](https://www.linkedin.com/in/weixuanyang/)</b>
