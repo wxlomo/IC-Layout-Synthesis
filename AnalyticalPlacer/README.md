@@ -4,12 +4,12 @@
 For running the code, please:
 1) Change directory to the source folder.
 2) To compile the code, type:
-    ```shellscript
+    ```console
     make
     ```
 3) To run the executable, Type:
     ```console
-    ./place FILENAME
+    ./place [PATH OF THE TEST CASE FILE]
     ```
    followed by the path or name of the input file, such as:
     ```console
@@ -29,7 +29,7 @@ For running the code, please:
     make clean
     ```
 
-<br><b>Input File Format:</b><br>
+<br><b>Test Case File Format:</b><br>
 
 The first several lines - <block index (int)> <1st net index (int)> <2nd net index (int)> ... <-1 (int)> <br>
 The split line - <-1 (int)> <br>
