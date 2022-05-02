@@ -3,7 +3,8 @@
 
 For running the code, please:
 1) Change directory to the source folder.
-2) Compile the code:```sh
+2) Compile the code:
+    ```sh
     make
     ```
 3) Type "<i>./place</i>" followed by the path or name of the input file, such as "<i>./place cct1</i>".
