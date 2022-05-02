@@ -8,25 +8,4 @@ Brief introductions of the three CAD tools are as follows:
 2. The MAX-SAT solver <br> A Branch-and-Bound solver for solving unweighted (Vanilla) and weighted maximum satisfiability (MAX-SAT) problems, which accepts multiple clauses Boolean formula expressed in conjunctive-normal form.
 4. The maze router <br> An FPGA router using Lee's Algorithm. The program allows users to specify the size of the circuit grid, the maximum width of the segment channels (W), and a list of nets that need to be routed. In addition to standard square switch blocks (Fs = 3), the router implements optional octagon switch blocks (Fs = 7). The program is also capable to minimize the segment channel width.
 
-<br><b>File List:</b><br>
-
-<table border="0">
-    <tr>
-        <td>AnalyticalPlacer</td>
-        <td>Folder of the analytical placer program files</td>
-    </tr>
-    <tr>
-        <td>MAX-SAT</td>
-        <td>Folder of the MAX-SAT solver program files</td>
-    </tr>
-    <tr>
-        <td>MazeRouter</td>
-        <td>Folder of the maze router program files</td>
-    </tr>
-    <tr>
-        <td>README.md</td>
-        <td>This file</td>
-    </tr>
-</table>
-
 <br><b>Copyright © 2021 Weixuan Yang</b>
