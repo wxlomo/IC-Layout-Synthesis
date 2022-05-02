@@ -4,7 +4,7 @@
 For running the code, please:
 1) Change directory to the source folder.
 2) To compile the code, type:
-    ```console
+    ```shellscript
     make
     ```
 3) To run the executable, Type:
