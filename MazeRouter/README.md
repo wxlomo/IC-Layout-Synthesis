@@ -19,7 +19,7 @@ For running the code, please:
     make clean
     ```
 
-<br><b>Input File Format:</b><br>
+<br><b>Test Case File Format:</b><br>
 
 The first line: `grid size (int)` <br>
 The second line: `channel width (int)` <br>
