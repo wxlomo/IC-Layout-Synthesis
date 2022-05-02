@@ -13,7 +13,7 @@ For running the code, please:
     ```
     `-w` - Run the solver in weighted MAX-SAT mode, otherwise all clauses are treated equally weighted.
 4) The binary decision tree will be generated automatically, the red dots denote the pruned nodes, and the green dot denotes the best solution node. The Boolean assignments of the variables will be visible on the terminal once the optimization is finished.
-5) Get rid of the object and executable files:
+5) To get rid of the object and executable files:
     ```
     make clean
     ```
