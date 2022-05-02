@@ -18,7 +18,6 @@ For running the code, please:
     ```
     make clean
     ```
-
 <br><b>Test Case File Format:</b><br>
 
 The first line: `grid size (int)` <br>
