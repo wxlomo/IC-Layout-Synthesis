@@ -11,10 +11,7 @@ For running the code, please:
     ```console
     ./place [PATH OF THE TEST CASE FILE]
     ```
-   followed by the path or name of the input file, such as:
-    ```console
-    ./place cct1
-    ``` 
+   followed by the path or name of the input file.
 6) The initial placement will be generated automatically. Press the buttons in the GUI before and while spreading to configure the algorithm:<br>
    "<i>Default</i>" - Reset all the configurations to default* <br>
    "<i>Linear Psi</i>" - Linear cell displacement limitation (&Psi;) increment function <br>
