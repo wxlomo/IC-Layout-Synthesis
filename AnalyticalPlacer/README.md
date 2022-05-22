@@ -52,15 +52,15 @@ The last line: `-1 (int)`
     </tr>
     <tr>
         <td>libamd.a</td>
-        <td>SuiteSparse ibrary file</td>
+        <td>SuiteSparse library file</td>
     </tr>
     <tr>
         <td>libsuitesparseconfig.a</td>
-        <td>SuiteSparse ibrary file</td>
+        <td>SuiteSparse library file</td>
     </tr>
     <tr>
         <td>libumfpack.a</td>
-        <td>SuiteSparse ibrary file</td>
+        <td>SuiteSparse library file</td>
     </tr>
     <tr>
         <td>main.cpp</td>
