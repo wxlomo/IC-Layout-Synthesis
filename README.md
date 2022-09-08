@@ -1,4 +1,4 @@
-# IC Layout Synthesis CAD Tools
+# IC Layout Synthesis CAD Toolset
 <b>Description:</b><br>
 
 This folder includes three toy CAD tools for digital integrated circuit (IC) layout synthesis that demonstrate the algorithms for partitioning, placing, and routing. The graphics package [easygl](https://www.eecg.utoronto.ca/~vaughn/easygl/easygl.html) is from Prof. V. Betz's work, the test case files are provided by Prof. J. Anderson, and the sparse linear systems solver used in the placer is from [Suitesparse](https://github.com/DrTimothyAldenDavis/SuiteSparse) by Prof. T. Davis. 
